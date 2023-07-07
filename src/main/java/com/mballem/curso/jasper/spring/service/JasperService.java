@@ -16,7 +16,7 @@ import java.util.Map;
 public class JasperService {
 
     private static final String JASPER_DIRETORIO = "classpath:jasper/";
-    private static final String JASPER_PREFIXO = "funcionarios-01";
+    private static final String JASPER_PREFIXO = "R_GUIA_TISS_SPSADT";
     private static final String JASPER_SUFIXO = ".jasper";
 
     @Autowired
